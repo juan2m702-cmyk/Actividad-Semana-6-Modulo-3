@@ -1,0 +1,10 @@
+Reflexión de la semana
+
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+
+Yo creo que es importante que las plataformas tecnológicas puedan recibir reportes o información de los ciudadanos de forma estructurada como en jsons porque
+esto ayuda a organizar mejor los datos y facilita su lectura. Cuando la información llega de manera ordenada, es más fácil leerlos e identificar los problemas, 
+necesidades o propuestas dentro de una comunidad. Además, permite que las respuestas sean más rápidas y precisas. También ayuda a evitar confusiones y pérdida
+de información importante. Otro beneficio puede ser que fortalece la participación ciudadana, porque las personas tienen un canal claro para expresar sus 
+opiniones y reportar situaciones que afectan a la comunidad. En general, recibir información de forma estructurada mejora la comunicación, la organización y 
+la toma de decisiones dentro de una plataforma digital.

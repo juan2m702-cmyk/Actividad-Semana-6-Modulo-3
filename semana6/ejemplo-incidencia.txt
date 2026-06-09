@@ -1,0 +1,5 @@
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Hueco en la vía",
+  "descripcion": "Se encuentra un hueco grande en la calle principal del barrio que dificulta el paso de vehículos y bicicletas."
+}
